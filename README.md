@@ -65,7 +65,7 @@ Minishell supports the following features:
 Clone the project to your computer:
 
 ```bash
-git clone https://github.com/seyhmusoksak/minishell.git
+git clone https://github.com/menasy/42-Minishell.git
 cd minishell
 ```
 ## Build the Library
