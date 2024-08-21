@@ -52,6 +52,7 @@ Minishell is a shell application that simulates command-line functionality in a 
 - **PARSER:** Command analysis and execution logic.
 - **UTILS:** Utility functions and tools.
 - **Makefile:** Rules for compiling the project.
+
 ## Responsibilities and Tasks
 
 ### Text Processing and Control (Parser)
@@ -84,6 +85,10 @@ Minishell is a shell application that simulates command-line functionality in a 
 
 ### Processing Executable Files
 - **Description:** Processing executable files located under `bin/`. This function ensures that various executable files in the `bin/` directory are correctly processed and executed.
+
+## Benefits of Group Work
+
+Throughout this project, we learned the importance of effective collaboration and teamwork. Working in a group allowed us to divide tasks according to each member's strengths, leading to a more efficient development process. Each member contributed their expertise, enhancing the quality and functionality of the final product. A special thank you to [e-kose](https://github.com/e-kose) for their invaluable contributions and collaboration.
   
 ## Installation Instructions
 
