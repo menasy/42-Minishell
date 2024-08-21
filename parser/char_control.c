@@ -32,7 +32,7 @@ static int	ft_check_last_redirect(t_parser *parser)
 	return (0);
 }
 
-static int ft_check_sub_redirect(char *line, int start, int i)
+static int	ft_check_sub_redirect(char *line, int start, int i)
 {
 	char	*sub;
 
@@ -48,6 +48,7 @@ static int ft_check_sub_redirect(char *line, int start, int i)
 	free(sub);
 	return (0);
 }
+
 static int	ft_redher_check(char *line, char typ, char typ2, t_parser *parser)
 {
 	int		i;
@@ -70,6 +71,7 @@ static int	ft_redher_check(char *line, char typ, char typ2, t_parser *parser)
 	}
 	return (0);
 }
+
 int	ft_redirection_control(t_parser *parser, int i)
 {
 	int		check;

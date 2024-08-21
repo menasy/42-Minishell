@@ -10,7 +10,6 @@
        ░      ░  ░         ░       ░  ░      ░  ░ ░
                                                 ░ ░*/
 
-
 #include "../includes/minishell.h"
 
 static char	*ft_find_env(char *str, int n, t_parser *parser, t_env *env)
