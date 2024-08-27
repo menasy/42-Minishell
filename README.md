@@ -98,17 +98,10 @@ Clone the project to your computer:
 git clone https://github.com/menasy/42-Minishell.git
 cd minishell
 ```
-## Build the Library
-
-To compile the library:
-
-```bash
-make
-```
-## Usage
 ### Run The Project
 ```bash
 ./minishell
 ```
-
+### Minishell ⬇
+You can watch a demonstration of the Minishell in action here: [Minishell Demo Video](https://github.com/menasy/42-Minishell/blob/main/minishell.mp4)
 
