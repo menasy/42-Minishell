@@ -103,5 +103,5 @@ cd minishell
 ./minishell
 ```
 ### Minishell ⬇
-You can watch a demonstration of the Minishell in action here: [Minishell Demo Video](https://github.com/menasy/42-Minishell/blob/main/minishell.mp4)
+You can watch a demonstration of the Minishell in action here: [Minishell Demo Video](https://www.linkedin.com/posts/mehmetnasimyilmaz_42okullaraft-minishell-unix-activity-7234205509048819716-Cn7n?utm_source=share&utm_medium=member_desktop)
 
