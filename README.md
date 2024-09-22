@@ -100,8 +100,9 @@ cd minishell
 ```
 ### Run The Project
 ```bash
+make
 ./minishell
 ```
 ### Minishell ⬇
-You can watch a demonstration of the Minishell in action here: [Minishell Demo Video](https://www.linkedin.com/posts/mehmetnasimyilmaz_42okullaraft-minishell-unix-activity-7234205509048819716-Cn7n?utm_source=share&utm_medium=member_desktop)
+You can watch a demonstration of the Minishell in action here: [Minishell Video](https://www.linkedin.com/posts/mehmetnasimyilmaz_42okullaraft-minishell-unix-activity-7234205509048819716-Cn7n?utm_source=share&utm_medium=member_desktop)
 
