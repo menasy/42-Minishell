@@ -1,6 +1,11 @@
 # 42-Minishell
 ### Minishell ⬇
 You can watch a demonstration of the Minishell in action here: [Minishell Video](https://www.linkedin.com/posts/menasy_42okullaraft-minishell-unix-activity-7234205509048819716-UsTY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEhPdTYBHmR6Z_bWJ6RNVuXikGuMyxc8b7g)
+
+![Minishell Image](https://github.com/menasy/Project_icons/blob/main/MinishellFiles/MinishellImg.png)
+
+[Download Minishell Video](https://github.com/menasy/Project_icons/blob/main/MinishellFiles/MinishellVideo.mp4)
+
 ## Project Overview
 
 Minishell is a shell application that simulates command-line functionality in a UNIX-like terminal environment. The project aims to replicate the core functionalities of modern shells by adopting a modular approach to various functionalities. It includes command processing, environment variable management, and the implementation of various shell features.
