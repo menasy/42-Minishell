@@ -12,6 +12,8 @@
 
 #include "./includes/minishell.h"
 
+int g_sig_status;
+
 static void	ft_init_program(int argc, char **argv, char **envp, t_state **state)
 {
 	(void)argv;

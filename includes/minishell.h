@@ -32,7 +32,6 @@
 # define BUFFER_SIZE 42
 # define MAX 1024
 
-int		g_sig_status;
 
 typedef struct s_files
 {
@@ -130,6 +129,8 @@ t_env		*get_env(t_state *state, char **env);
 void		env_addback(t_env **lst, t_env *new);
 void		ft_sep_path(t_state *state);
 t_env		*new_env(char *key, char *value);
+extern int 	g_sig_status;
+
 
 //			built in functions
 void		env_addback(t_env **lst, t_env *new);

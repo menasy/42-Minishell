@@ -12,6 +12,7 @@
 
 #include "../includes/minishell.h"
 
+
 static void	ft_signal_handler(int sig)
 {
 	(void)sig;
